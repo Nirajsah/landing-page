@@ -170,7 +170,7 @@ ul, a{
    }
    .box-text {
     font-size: 10px;
-    font-size: medium;
+    margin-top: 4px;
     font-weight: bold;
    }
    .contents {
